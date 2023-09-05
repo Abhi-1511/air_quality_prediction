@@ -13,12 +13,7 @@ Air is what keeps humans alive. Monitoring it and understanding its quality is o
 
 •	IDE : Jupyter Notebook
 
-[Explanation link to Youtube](https://lnkd.in/gxcNRkC)
 
-
-### Here I have 1st calculated the AQI values based upon the values of different pollutants present in air using AQI calculation formula and then done prediction of the air quality for any value of AQI.
-
-(If you are predicting the Air Quality Values using your model It will be a regression problem)
 
 
 
